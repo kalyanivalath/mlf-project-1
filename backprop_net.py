@@ -252,8 +252,10 @@ def plot_results(net, X, y, history, mu, sd, title, outfile):
 # for setting the split of training/validation/test
 # first select --test (fraction) 
 # then of what is left determine how much fraction your validation is by 
-# --val default = (validationfractiondesired / what fraction is left after removing test fraction)
-# for 70test/20validation/10test you use the value of --test default=0.1  --val default=0.2222
+# --val default = (validation_fraction_desired / fraction that is left after removing test fraction)
+# for 70training/20validation/10test you use the value of --test default=0.1  --val default=0.2222
+# for 70training/15validation/15test you use the value of --test default=0.15 --val defaault=0.1765
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("csv")
