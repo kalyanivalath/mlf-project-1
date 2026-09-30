@@ -10,7 +10,7 @@
 #   python3 backprop_net.py "data/Gaussian 2D Wide.csv"                             # one run full progress printed
 #   python3 backprop_net.py "data/Gaussian 2D Wide.csv" --runs 50                   # 50 runs + summary, printed
 #   python3 backprop_net.py "data/Gaussian 2D Wide.csv" --hidden 0                  # no hidden layer
-#   python3 backprop_net.py "data/Gaussian 2D Wide.csv" --hidden 8                  # 8 hidden layer
+#   python3 backprop_net.py "data/Gaussian 2D Wide.csv" --hidden 8                  # 8 hidden units
 #   python3 backprop_net.py "data/Gaussian 2D Wide.csv" --plot                      # also saves plots (first run) 
 #   python3 backprop_net.py "data/Gaussian 2D Wide.csv" --runs 50 --out results.csv # also saves results
 
@@ -249,8 +249,11 @@ def plot_results(net, X, y, history, mu, sd, title, outfile):
 #--------------------------------------------------------------------------------------------------
 # main
 #--------------------------------------------------------------------------------------------------
-
-
+# for setting the split of training/validation/test
+# first select --test (fraction) 
+# then of what is left determine how much fraction your validation is by 
+# --val default = (validationfractiondesired / what fraction is left after removing test fraction)
+# for 70test/20validation/10test you use the value of --test default=0.1  --val default=0.2222
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("csv")
@@ -259,12 +262,13 @@ def main():
     ap.add_argument("--momentum", type=float, default=0.9)
     ap.add_argument("--epochs", type=int, default=2000)
     ap.add_argument("--batch", type=int, default=32)
-    ap.add_argument("--val", type=float, default=0.2, help="fraction held out for validation")
-    ap.add_argument("--test", type=float, default=0.2, help="fraction held out for testing")
+    ap.add_argument("--test", type=float, default=0.1, help="fraction held out for testing from original data set")
+    ap.add_argument("--val", type=float, default=0.2222, help="fraction held out for validation from what is left of the data set after removing test")
     ap.add_argument("--seed", type=int, default=0, help="seed for the first run")
     ap.add_argument("--runs", type=int, default=1, help="number of runs (seeds seed ... seed + runs - 1)")
     ap.add_argument("--out", help="CSV file to append per-run results to")
     ap.add_argument("--plot", action="store_true", help="save plots from the first run")
+    
     a = ap.parse_args()
 
     X, y = load_csv(a.csv)
