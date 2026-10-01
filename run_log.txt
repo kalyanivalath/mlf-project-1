@@ -1,0 +1,1080 @@
+Gaussian 2D Wide: 200 examples, 2 features, hidden=8, runs=50
+run   1 seed (  0) train 1.000 val 1.000 test 1.000 best epoch 1997
+Saved plot to Gaussian 2D Wide_results.png
+run   2 seed (  1) train 1.000 val 1.000 test 1.000 best epoch 1988
+run   3 seed (  2) train 1.000 val 1.000 test 1.000 best epoch 1998
+run   4 seed (  3) train 1.000 val 1.000 test 1.000 best epoch 1988
+run   5 seed (  4) train 1.000 val 1.000 test 1.000 best epoch 1990
+run   6 seed (  5) train 1.000 val 1.000 test 1.000 best epoch 1916
+run   7 seed (  6) train 1.000 val 1.000 test 1.000 best epoch 1844
+run   8 seed (  7) train 1.000 val 1.000 test 1.000 best epoch 1807
+run   9 seed (  8) train 1.000 val 1.000 test 1.000 best epoch 1956
+run  10 seed (  9) train 1.000 val 1.000 test 1.000 best epoch 1999
+run  11 seed ( 10) train 1.000 val 1.000 test 1.000 best epoch 1973
+run  12 seed ( 11) train 1.000 val 1.000 test 1.000 best epoch 1977
+run  13 seed ( 12) train 1.000 val 1.000 test 1.000 best epoch 1968
+run  14 seed ( 13) train 1.000 val 1.000 test 1.000 best epoch 1998
+run  15 seed ( 14) train 1.000 val 1.000 test 1.000 best epoch 1985
+run  16 seed ( 15) train 1.000 val 1.000 test 1.000 best epoch 1983
+run  17 seed ( 16) train 1.000 val 1.000 test 1.000 best epoch 1993
+run  18 seed ( 17) train 1.000 val 1.000 test 1.000 best epoch 1989
+run  19 seed ( 18) train 1.000 val 1.000 test 1.000 best epoch 1988
+run  20 seed ( 19) train 1.000 val 1.000 test 1.000 best epoch 1995
+run  21 seed ( 20) train 1.000 val 1.000 test 1.000 best epoch 1931
+run  22 seed ( 21) train 1.000 val 1.000 test 1.000 best epoch 1663
+run  23 seed ( 22) train 1.000 val 1.000 test 1.000 best epoch 1975
+run  24 seed ( 23) train 1.000 val 1.000 test 1.000 best epoch 1998
+run  25 seed ( 24) train 1.000 val 1.000 test 1.000 best epoch 1957
+run  26 seed ( 25) train 1.000 val 1.000 test 1.000 best epoch 1751
+run  27 seed ( 26) train 1.000 val 1.000 test 1.000 best epoch 2000
+run  28 seed ( 27) train 1.000 val 1.000 test 1.000 best epoch 1993
+run  29 seed ( 28) train 1.000 val 1.000 test 1.000 best epoch 1488
+run  30 seed ( 29) train 1.000 val 1.000 test 1.000 best epoch 1894
+run  31 seed ( 30) train 1.000 val 1.000 test 1.000 best epoch 1969
+run  32 seed ( 31) train 1.000 val 1.000 test 1.000 best epoch 1959
+run  33 seed ( 32) train 1.000 val 1.000 test 1.000 best epoch 1986
+run  34 seed ( 33) train 1.000 val 1.000 test 1.000 best epoch 1779
+run  35 seed ( 34) train 1.000 val 1.000 test 1.000 best epoch 1606
+run  36 seed ( 35) train 1.000 val 1.000 test 1.000 best epoch 1985
+run  37 seed ( 36) train 1.000 val 1.000 test 1.000 best epoch 1959
+run  38 seed ( 37) train 1.000 val 1.000 test 1.000 best epoch 1569
+run  39 seed ( 38) train 1.000 val 1.000 test 1.000 best epoch 1802
+run  40 seed ( 39) train 1.000 val 1.000 test 1.000 best epoch 1998
+run  41 seed ( 40) train 1.000 val 1.000 test 1.000 best epoch 1994
+run  42 seed ( 41) train 1.000 val 1.000 test 1.000 best epoch 1974
+run  43 seed ( 42) train 1.000 val 1.000 test 1.000 best epoch 1898
+run  44 seed ( 43) train 1.000 val 1.000 test 1.000 best epoch 1995
+run  45 seed ( 44) train 1.000 val 1.000 test 1.000 best epoch 1977
+run  46 seed ( 45) train 1.000 val 1.000 test 1.000 best epoch 1961
+run  47 seed ( 46) train 1.000 val 1.000 test 1.000 best epoch 1727
+run  48 seed ( 47) train 1.000 val 1.000 test 1.000 best epoch 1952
+run  49 seed ( 48) train 1.000 val 1.000 test 1.000 best epoch 1988
+run  50 seed ( 49) train 1.000 val 1.000 test 1.000 best epoch 1988
+
+Summary over 50 runs (mean +/- standard deviation):
+  train accuracy:       1.000 +/- 0.000
+  validation accuracy:  1.000 +/- 0.000
+  test accuracy:        1.000 +/- 0.000
+  best epoch:           1920.960 +/- 123.064
+  total test errors:    0 Class 0 called Class 1, 0 Class 1 called Class 0
+Appended 50 runs to results.csv
+Gaussian 2D Wide: 200 examples, 2 features, hidden=0, runs=50
+run   1 seed (  0) train 1.000 val 1.000 test 1.000 best epoch 1985
+Saved plot to Gaussian 2D Wide_results.png
+run   2 seed (  1) train 1.000 val 1.000 test 1.000 best epoch 1995
+run   3 seed (  2) train 1.000 val 1.000 test 1.000 best epoch 2000
+run   4 seed (  3) train 1.000 val 1.000 test 1.000 best epoch 1997
+run   5 seed (  4) train 1.000 val 1.000 test 1.000 best epoch 1993
+run   6 seed (  5) train 1.000 val 1.000 test 1.000 best epoch 2000
+run   7 seed (  6) train 1.000 val 1.000 test 1.000 best epoch 1991
+run   8 seed (  7) train 1.000 val 1.000 test 1.000 best epoch 1979
+run   9 seed (  8) train 1.000 val 1.000 test 1.000 best epoch 1999
+run  10 seed (  9) train 1.000 val 1.000 test 1.000 best epoch 1997
+run  11 seed ( 10) train 1.000 val 1.000 test 1.000 best epoch 1998
+run  12 seed ( 11) train 1.000 val 1.000 test 1.000 best epoch 1992
+run  13 seed ( 12) train 1.000 val 1.000 test 1.000 best epoch 1989
+run  14 seed ( 13) train 1.000 val 1.000 test 1.000 best epoch 1999
+run  15 seed ( 14) train 1.000 val 1.000 test 1.000 best epoch 2000
+run  16 seed ( 15) train 1.000 val 1.000 test 1.000 best epoch 1998
+run  17 seed ( 16) train 1.000 val 1.000 test 1.000 best epoch 1998
+run  18 seed ( 17) train 1.000 val 1.000 test 1.000 best epoch 1998
+run  19 seed ( 18) train 1.000 val 1.000 test 1.000 best epoch 1998
+run  20 seed ( 19) train 1.000 val 1.000 test 1.000 best epoch 2000
+run  21 seed ( 20) train 1.000 val 1.000 test 1.000 best epoch 1987
+run  22 seed ( 21) train 1.000 val 1.000 test 1.000 best epoch 1979
+run  23 seed ( 22) train 1.000 val 1.000 test 1.000 best epoch 1998
+run  24 seed ( 23) train 1.000 val 1.000 test 1.000 best epoch 1998
+run  25 seed ( 24) train 1.000 val 1.000 test 1.000 best epoch 2000
+run  26 seed ( 25) train 1.000 val 1.000 test 1.000 best epoch 1982
+run  27 seed ( 26) train 1.000 val 1.000 test 1.000 best epoch 1998
+run  28 seed ( 27) train 1.000 val 1.000 test 1.000 best epoch 1998
+run  29 seed ( 28) train 1.000 val 1.000 test 1.000 best epoch 1885
+run  30 seed ( 29) train 1.000 val 1.000 test 1.000 best epoch 1995
+run  31 seed ( 30) train 1.000 val 1.000 test 1.000 best epoch 1995
+run  32 seed ( 31) train 1.000 val 1.000 test 1.000 best epoch 1999
+run  33 seed ( 32) train 1.000 val 1.000 test 1.000 best epoch 1996
+run  34 seed ( 33) train 1.000 val 1.000 test 1.000 best epoch 1988
+run  35 seed ( 34) train 1.000 val 1.000 test 1.000 best epoch 1990
+run  36 seed ( 35) train 1.000 val 1.000 test 1.000 best epoch 1997
+run  37 seed ( 36) train 1.000 val 1.000 test 1.000 best epoch 1998
+run  38 seed ( 37) train 1.000 val 1.000 test 1.000 best epoch 1960
+run  39 seed ( 38) train 1.000 val 1.000 test 1.000 best epoch 1987
+run  40 seed ( 39) train 1.000 val 1.000 test 1.000 best epoch 1993
+run  41 seed ( 40) train 1.000 val 1.000 test 1.000 best epoch 1998
+run  42 seed ( 41) train 1.000 val 1.000 test 1.000 best epoch 1994
+run  43 seed ( 42) train 1.000 val 1.000 test 1.000 best epoch 1995
+run  44 seed ( 43) train 1.000 val 1.000 test 1.000 best epoch 1999
+run  45 seed ( 44) train 1.000 val 1.000 test 1.000 best epoch 1999
+run  46 seed ( 45) train 1.000 val 1.000 test 1.000 best epoch 1999
+run  47 seed ( 46) train 1.000 val 1.000 test 1.000 best epoch 1987
+run  48 seed ( 47) train 1.000 val 1.000 test 1.000 best epoch 2000
+run  49 seed ( 48) train 1.000 val 1.000 test 1.000 best epoch 1991
+run  50 seed ( 49) train 1.000 val 1.000 test 1.000 best epoch 1999
+
+Summary over 50 runs (mean +/- standard deviation):
+  train accuracy:       1.000 +/- 0.000
+  validation accuracy:  1.000 +/- 0.000
+  test accuracy:        1.000 +/- 0.000
+  best epoch:           1991.800 +/- 17.095
+  total test errors:    0 Class 0 called Class 1, 0 Class 1 called Class 0
+Appended 50 runs to results.csv
+Gaussian 2D Narrow: 200 examples, 2 features, hidden=8, runs=50
+run   1 seed (  0) train 1.000 val 1.000 test 1.000 best epoch 2000
+Saved plot to Gaussian 2D Narrow_results.png
+run   2 seed (  1) train 1.000 val 0.975 test 1.000 best epoch 9
+run   3 seed (  2) train 1.000 val 1.000 test 1.000 best epoch 1610
+run   4 seed (  3) train 1.000 val 1.000 test 1.000 best epoch 1999
+run   5 seed (  4) train 1.000 val 1.000 test 1.000 best epoch 1641
+run   6 seed (  5) train 1.000 val 1.000 test 1.000 best epoch 9
+run   7 seed (  6) train 1.000 val 1.000 test 1.000 best epoch 1497
+run   8 seed (  7) train 1.000 val 1.000 test 0.950 best epoch 1698
+run   9 seed (  8) train 1.000 val 1.000 test 1.000 best epoch 9
+run  10 seed (  9) train 1.000 val 0.975 test 1.000 best epoch 266
+run  11 seed ( 10) train 1.000 val 1.000 test 0.950 best epoch 1975
+run  12 seed ( 11) train 1.000 val 1.000 test 1.000 best epoch 1999
+run  13 seed ( 12) train 1.000 val 1.000 test 1.000 best epoch 1130
+run  14 seed ( 13) train 1.000 val 1.000 test 1.000 best epoch 977
+run  15 seed ( 14) train 1.000 val 1.000 test 1.000 best epoch 1289
+run  16 seed ( 15) train 1.000 val 1.000 test 1.000 best epoch 1916
+run  17 seed ( 16) train 1.000 val 1.000 test 1.000 best epoch 1842
+run  18 seed ( 17) train 1.000 val 1.000 test 1.000 best epoch 796
+run  19 seed ( 18) train 1.000 val 1.000 test 1.000 best epoch 1451
+run  20 seed ( 19) train 1.000 val 1.000 test 1.000 best epoch 1970
+run  21 seed ( 20) train 1.000 val 1.000 test 0.950 best epoch 1923
+run  22 seed ( 21) train 1.000 val 1.000 test 1.000 best epoch 21
+run  23 seed ( 22) train 1.000 val 1.000 test 1.000 best epoch 877
+run  24 seed ( 23) train 1.000 val 0.975 test 1.000 best epoch 120
+run  25 seed ( 24) train 1.000 val 1.000 test 0.950 best epoch 1995
+run  26 seed ( 25) train 1.000 val 0.975 test 1.000 best epoch 147
+run  27 seed ( 26) train 1.000 val 1.000 test 0.950 best epoch 1994
+run  28 seed ( 27) train 1.000 val 1.000 test 1.000 best epoch 1133
+run  29 seed ( 28) train 1.000 val 1.000 test 1.000 best epoch 127
+run  30 seed ( 29) train 1.000 val 1.000 test 1.000 best epoch 20
+run  31 seed ( 30) train 1.000 val 1.000 test 1.000 best epoch 1835
+run  32 seed ( 31) train 1.000 val 1.000 test 1.000 best epoch 668
+run  33 seed ( 32) train 1.000 val 1.000 test 1.000 best epoch 1996
+run  34 seed ( 33) train 1.000 val 1.000 test 1.000 best epoch 1942
+run  35 seed ( 34) train 1.000 val 1.000 test 1.000 best epoch 1589
+run  36 seed ( 35) train 1.000 val 1.000 test 1.000 best epoch 1999
+run  37 seed ( 36) train 1.000 val 1.000 test 1.000 best epoch 1527
+run  38 seed ( 37) train 1.000 val 1.000 test 1.000 best epoch 860
+run  39 seed ( 38) train 1.000 val 1.000 test 1.000 best epoch 39
+run  40 seed ( 39) train 1.000 val 1.000 test 1.000 best epoch 623
+run  41 seed ( 40) train 1.000 val 1.000 test 1.000 best epoch 1895
+run  42 seed ( 41) train 1.000 val 0.975 test 1.000 best epoch 121
+run  43 seed ( 42) train 1.000 val 1.000 test 1.000 best epoch 907
+run  44 seed ( 43) train 1.000 val 1.000 test 0.950 best epoch 1998
+run  45 seed ( 44) train 1.000 val 0.975 test 1.000 best epoch 22
+run  46 seed ( 45) train 1.000 val 1.000 test 1.000 best epoch 70
+run  47 seed ( 46) train 1.000 val 1.000 test 1.000 best epoch 49
+run  48 seed ( 47) train 1.000 val 1.000 test 1.000 best epoch 591
+run  49 seed ( 48) train 1.000 val 1.000 test 1.000 best epoch 7
+run  50 seed ( 49) train 1.000 val 1.000 test 1.000 best epoch 1983
+
+Summary over 50 runs (mean +/- standard deviation):
+  train accuracy:       1.000 +/- 0.000
+  validation accuracy:  0.997 +/- 0.008
+  test accuracy:        0.994 +/- 0.016
+  best epoch:           1103.220 +/- 796.872
+  total test errors:    1 Class 0 called Class 1, 5 Class 1 called Class 0
+Appended 50 runs to results.csv
+Gaussian 2D Narrow: 200 examples, 2 features, hidden=0, runs=50
+run   1 seed (  0) train 1.000 val 1.000 test 1.000 best epoch 2000
+Saved plot to Gaussian 2D Narrow_results.png
+run   2 seed (  1) train 1.000 val 1.000 test 1.000 best epoch 351
+run   3 seed (  2) train 1.000 val 1.000 test 1.000 best epoch 2000
+run   4 seed (  3) train 1.000 val 1.000 test 1.000 best epoch 2000
+run   5 seed (  4) train 1.000 val 1.000 test 1.000 best epoch 1981
+run   6 seed (  5) train 1.000 val 1.000 test 1.000 best epoch 425
+run   7 seed (  6) train 1.000 val 1.000 test 1.000 best epoch 1995
+run   8 seed (  7) train 1.000 val 1.000 test 1.000 best epoch 1993
+run   9 seed (  8) train 1.000 val 1.000 test 1.000 best epoch 432
+run  10 seed (  9) train 1.000 val 0.975 test 1.000 best epoch 1839
+run  11 seed ( 10) train 1.000 val 1.000 test 0.950 best epoch 1994
+run  12 seed ( 11) train 1.000 val 1.000 test 1.000 best epoch 1999
+run  13 seed ( 12) train 1.000 val 1.000 test 1.000 best epoch 1999
+run  14 seed ( 13) train 1.000 val 1.000 test 1.000 best epoch 1998
+run  15 seed ( 14) train 1.000 val 1.000 test 1.000 best epoch 1984
+run  16 seed ( 15) train 1.000 val 1.000 test 1.000 best epoch 1916
+run  17 seed ( 16) train 1.000 val 1.000 test 1.000 best epoch 1997
+run  18 seed ( 17) train 1.000 val 1.000 test 1.000 best epoch 2000
+run  19 seed ( 18) train 1.000 val 1.000 test 1.000 best epoch 1973
+run  20 seed ( 19) train 1.000 val 1.000 test 1.000 best epoch 1591
+run  21 seed ( 20) train 1.000 val 1.000 test 0.950 best epoch 1997
+run  22 seed ( 21) train 1.000 val 1.000 test 1.000 best epoch 1908
+run  23 seed ( 22) train 1.000 val 1.000 test 1.000 best epoch 2000
+run  24 seed ( 23) train 1.000 val 1.000 test 1.000 best epoch 692
+run  25 seed ( 24) train 1.000 val 1.000 test 1.000 best epoch 2000
+run  26 seed ( 25) train 1.000 val 0.975 test 1.000 best epoch 496
+run  27 seed ( 26) train 1.000 val 1.000 test 0.950 best epoch 2000
+run  28 seed ( 27) train 1.000 val 1.000 test 1.000 best epoch 1989
+run  29 seed ( 28) train 1.000 val 1.000 test 1.000 best epoch 1763
+run  30 seed ( 29) train 1.000 val 0.975 test 1.000 best epoch 1079
+run  31 seed ( 30) train 1.000 val 1.000 test 1.000 best epoch 1998
+run  32 seed ( 31) train 1.000 val 1.000 test 1.000 best epoch 1998
+run  33 seed ( 32) train 1.000 val 1.000 test 1.000 best epoch 1996
+run  34 seed ( 33) train 1.000 val 1.000 test 1.000 best epoch 1444
+run  35 seed ( 34) train 1.000 val 1.000 test 1.000 best epoch 1993
+run  36 seed ( 35) train 1.000 val 1.000 test 1.000 best epoch 2000
+run  37 seed ( 36) train 1.000 val 1.000 test 1.000 best epoch 1986
+run  38 seed ( 37) train 1.000 val 1.000 test 1.000 best epoch 1981
+run  39 seed ( 38) train 1.000 val 1.000 test 1.000 best epoch 408
+run  40 seed ( 39) train 1.000 val 1.000 test 1.000 best epoch 1999
+run  41 seed ( 40) train 1.000 val 1.000 test 1.000 best epoch 1994
+run  42 seed ( 41) train 1.000 val 0.975 test 1.000 best epoch 1833
+run  43 seed ( 42) train 1.000 val 1.000 test 1.000 best epoch 1976
+run  44 seed ( 43) train 1.000 val 1.000 test 0.950 best epoch 2000
+run  45 seed ( 44) train 1.000 val 1.000 test 1.000 best epoch 219
+run  46 seed ( 45) train 1.000 val 1.000 test 1.000 best epoch 541
+run  47 seed ( 46) train 1.000 val 1.000 test 1.000 best epoch 1165
+run  48 seed ( 47) train 1.000 val 1.000 test 1.000 best epoch 1995
+run  49 seed ( 48) train 1.000 val 1.000 test 1.000 best epoch 1296
+run  50 seed ( 49) train 1.000 val 1.000 test 1.000 best epoch 1968
+
+Summary over 50 runs (mean +/- standard deviation):
+  train accuracy:       1.000 +/- 0.000
+  validation accuracy:  0.998 +/- 0.007
+  test accuracy:        0.996 +/- 0.014
+  best epoch:           1663.620 +/- 579.510
+  total test errors:    0 Class 0 called Class 1, 4 Class 1 called Class 0
+Appended 50 runs to results.csv
+Gaussian 2D Overlap: 200 examples, 2 features, hidden=8, runs=50
+run   1 seed (  0) train 0.986 val 0.950 test 0.750 best epoch 195
+Saved plot to Gaussian 2D Overlap_results.png
+run   2 seed (  1) train 0.921 val 0.925 test 0.950 best epoch 24
+run   3 seed (  2) train 0.929 val 0.900 test 0.950 best epoch 9
+run   4 seed (  3) train 0.950 val 0.875 test 0.900 best epoch 2
+run   5 seed (  4) train 0.950 val 0.900 test 1.000 best epoch 167
+run   6 seed (  5) train 0.971 val 1.000 test 0.750 best epoch 1040
+run   7 seed (  6) train 0.936 val 0.950 test 0.950 best epoch 99
+run   8 seed (  7) train 0.971 val 0.975 test 0.900 best epoch 1952
+run   9 seed (  8) train 0.943 val 0.900 test 0.850 best epoch 2
+run  10 seed (  9) train 0.950 val 0.875 test 0.900 best epoch 2
+run  11 seed ( 10) train 0.936 val 0.875 test 0.950 best epoch 2
+run  12 seed ( 11) train 0.921 val 0.925 test 0.950 best epoch 3
+run  13 seed ( 12) train 0.929 val 0.975 test 0.850 best epoch 9
+run  14 seed ( 13) train 0.921 val 0.950 test 1.000 best epoch 20
+run  15 seed ( 14) train 0.957 val 0.975 test 0.900 best epoch 576
+run  16 seed ( 15) train 0.936 val 0.925 test 0.900 best epoch 16
+run  17 seed ( 16) train 0.936 val 0.950 test 0.900 best epoch 13
+run  18 seed ( 17) train 0.964 val 0.900 test 0.850 best epoch 1318
+run  19 seed ( 18) train 0.957 val 0.875 test 0.850 best epoch 304
+run  20 seed ( 19) train 0.943 val 0.950 test 0.900 best epoch 3
+run  21 seed ( 20) train 0.936 val 0.975 test 0.800 best epoch 5
+run  22 seed ( 21) train 0.921 val 1.000 test 0.850 best epoch 6
+run  23 seed ( 22) train 0.921 val 0.925 test 0.950 best epoch 2
+run  24 seed ( 23) train 0.943 val 0.950 test 0.900 best epoch 197
+run  25 seed ( 24) train 0.936 val 0.875 test 0.950 best epoch 2
+run  26 seed ( 25) train 0.964 val 0.950 test 0.950 best epoch 920
+run  27 seed ( 26) train 0.929 val 0.950 test 0.900 best epoch 10
+run  28 seed ( 27) train 0.929 val 0.950 test 1.000 best epoch 314
+run  29 seed ( 28) train 0.921 val 0.925 test 0.950 best epoch 157
+run  30 seed ( 29) train 0.950 val 1.000 test 0.950 best epoch 874
+run  31 seed ( 30) train 0.914 val 0.975 test 1.000 best epoch 43
+run  32 seed ( 31) train 0.950 val 1.000 test 1.000 best epoch 1664
+run  33 seed ( 32) train 0.964 val 0.925 test 0.950 best epoch 489
+run  34 seed ( 33) train 0.971 val 0.975 test 0.950 best epoch 1638
+run  35 seed ( 34) train 0.929 val 0.925 test 0.950 best epoch 144
+run  36 seed ( 35) train 0.979 val 1.000 test 0.900 best epoch 1977
+run  37 seed ( 36) train 0.921 val 0.950 test 1.000 best epoch 7
+run  38 seed ( 37) train 0.914 val 0.975 test 0.950 best epoch 27
+run  39 seed ( 38) train 0.900 val 0.975 test 1.000 best epoch 7
+run  40 seed ( 39) train 0.964 val 0.950 test 0.900 best epoch 433
+run  41 seed ( 40) train 0.971 val 1.000 test 1.000 best epoch 1636
+run  42 seed ( 41) train 0.943 val 0.925 test 0.850 best epoch 2
+run  43 seed ( 42) train 0.914 val 0.975 test 0.900 best epoch 4
+run  44 seed ( 43) train 0.950 val 0.975 test 0.900 best epoch 421
+run  45 seed ( 44) train 0.929 val 0.950 test 0.900 best epoch 31
+run  46 seed ( 45) train 0.907 val 0.975 test 1.000 best epoch 3
+run  47 seed ( 46) train 0.943 val 0.925 test 0.850 best epoch 3
+run  48 seed ( 47) train 0.929 val 0.950 test 0.850 best epoch 4
+run  49 seed ( 48) train 0.943 val 0.925 test 0.900 best epoch 2
+run  50 seed ( 49) train 0.914 val 0.900 test 0.900 best epoch 3
+
+Summary over 50 runs (mean +/- standard deviation):
+  train accuracy:       0.940 +/- 0.020
+  validation accuracy:  0.944 +/- 0.037
+  test accuracy:        0.916 +/- 0.062
+  best epoch:           335.620 +/- 570.289
+  total test errors:    56 Class 0 called Class 1, 28 Class 1 called Class 0
+Appended 50 runs to results.csv
+Gaussian 2D Overlap: 200 examples, 2 features, hidden=0, runs=50
+run   1 seed (  0) train 0.921 val 0.925 test 0.900 best epoch 1015
+Saved plot to Gaussian 2D Overlap_results.png
+run   2 seed (  1) train 0.921 val 0.950 test 0.950 best epoch 6
+run   3 seed (  2) train 0.929 val 0.875 test 0.950 best epoch 933
+run   4 seed (  3) train 0.950 val 0.875 test 0.900 best epoch 8
+run   5 seed (  4) train 0.943 val 0.900 test 0.900 best epoch 7
+run   6 seed (  5) train 0.936 val 0.975 test 0.800 best epoch 391
+run   7 seed (  6) train 0.929 val 0.925 test 0.950 best epoch 4
+run   8 seed (  7) train 0.921 val 0.950 test 0.900 best epoch 1144
+run   9 seed (  8) train 0.936 val 0.900 test 0.950 best epoch 4
+run  10 seed (  9) train 0.943 val 0.875 test 0.850 best epoch 4
+run  11 seed ( 10) train 0.936 val 0.900 test 0.950 best epoch 4
+run  12 seed ( 11) train 0.914 val 0.925 test 0.950 best epoch 8
+run  13 seed ( 12) train 0.921 val 0.975 test 0.900 best epoch 138
+run  14 seed ( 13) train 0.929 val 0.900 test 1.000 best epoch 6
+run  15 seed ( 14) train 0.921 val 0.950 test 0.900 best epoch 1256
+run  16 seed ( 15) train 0.936 val 0.925 test 0.900 best epoch 800
+run  17 seed ( 16) train 0.943 val 0.925 test 0.850 best epoch 128
+run  18 seed ( 17) train 0.950 val 0.850 test 0.950 best epoch 3
+run  19 seed ( 18) train 0.957 val 0.850 test 0.900 best epoch 5
+run  20 seed ( 19) train 0.943 val 0.925 test 0.850 best epoch 5
+run  21 seed ( 20) train 0.936 val 0.975 test 0.800 best epoch 1273
+run  22 seed ( 21) train 0.921 val 1.000 test 0.850 best epoch 936
+run  23 seed ( 22) train 0.921 val 0.925 test 0.950 best epoch 4
+run  24 seed ( 23) train 0.929 val 0.950 test 0.900 best epoch 1011
+run  25 seed ( 24) train 0.929 val 0.875 test 1.000 best epoch 3
+run  26 seed ( 25) train 0.914 val 0.950 test 0.900 best epoch 1901
+run  27 seed ( 26) train 0.936 val 0.950 test 0.850 best epoch 18
+run  28 seed ( 27) train 0.921 val 0.900 test 1.000 best epoch 407
+run  29 seed ( 28) train 0.921 val 0.925 test 0.950 best epoch 4
+run  30 seed ( 29) train 0.914 val 0.975 test 0.950 best epoch 1496
+run  31 seed ( 30) train 0.914 val 0.975 test 0.950 best epoch 4
+run  32 seed ( 31) train 0.900 val 1.000 test 0.900 best epoch 1317
+run  33 seed ( 32) train 0.929 val 0.925 test 0.950 best epoch 6
+run  34 seed ( 33) train 0.907 val 0.950 test 1.000 best epoch 325
+run  35 seed ( 34) train 0.936 val 0.925 test 0.900 best epoch 5
+run  36 seed ( 35) train 0.936 val 0.975 test 0.800 best epoch 383
+run  37 seed ( 36) train 0.907 val 0.975 test 1.000 best epoch 11
+run  38 seed ( 37) train 0.907 val 0.975 test 1.000 best epoch 9
+run  39 seed ( 38) train 0.900 val 0.975 test 1.000 best epoch 9
+run  40 seed ( 39) train 0.929 val 0.900 test 0.950 best epoch 733
+run  41 seed ( 40) train 0.936 val 0.900 test 0.950 best epoch 741
+run  42 seed ( 41) train 0.929 val 0.925 test 0.900 best epoch 4
+run  43 seed ( 42) train 0.914 val 0.950 test 0.900 best epoch 8
+run  44 seed ( 43) train 0.921 val 0.950 test 0.900 best epoch 851
+run  45 seed ( 44) train 0.921 val 0.925 test 0.900 best epoch 4
+run  46 seed ( 45) train 0.907 val 0.975 test 1.000 best epoch 6
+run  47 seed ( 46) train 0.943 val 0.925 test 0.850 best epoch 7
+run  48 seed ( 47) train 0.936 val 0.950 test 0.850 best epoch 200
+run  49 seed ( 48) train 0.929 val 0.925 test 0.900 best epoch 3
+run  50 seed ( 49) train 0.921 val 0.925 test 0.950 best epoch 5
+
+Summary over 50 runs (mean +/- standard deviation):
+  train accuracy:       0.927 +/- 0.013
+  validation accuracy:  0.932 +/- 0.037
+  test accuracy:        0.918 +/- 0.055
+  best epoch:           351.060 +/- 511.661
+  total test errors:    50 Class 0 called Class 1, 32 Class 1 called Class 0
+Appended 50 runs to results.csv
+Gaussian 3D Wide: 200 examples, 3 features, hidden=8, runs=50
+run   1 seed (  0) train 1.000 val 1.000 test 1.000 best epoch 2000
+Saved plot to Gaussian 3D Wide_results.png
+run   2 seed (  1) train 1.000 val 1.000 test 1.000 best epoch 1971
+run   3 seed (  2) train 1.000 val 1.000 test 1.000 best epoch 1943
+run   4 seed (  3) train 1.000 val 1.000 test 1.000 best epoch 1979
+run   5 seed (  4) train 1.000 val 1.000 test 1.000 best epoch 1834
+run   6 seed (  5) train 1.000 val 1.000 test 1.000 best epoch 1958
+run   7 seed (  6) train 1.000 val 1.000 test 1.000 best epoch 1877
+run   8 seed (  7) train 1.000 val 1.000 test 1.000 best epoch 1899
+run   9 seed (  8) train 1.000 val 1.000 test 1.000 best epoch 1904
+run  10 seed (  9) train 1.000 val 1.000 test 1.000 best epoch 1941
+run  11 seed ( 10) train 1.000 val 1.000 test 1.000 best epoch 1987
+run  12 seed ( 11) train 1.000 val 1.000 test 1.000 best epoch 1956
+run  13 seed ( 12) train 1.000 val 1.000 test 1.000 best epoch 1939
+run  14 seed ( 13) train 1.000 val 1.000 test 1.000 best epoch 1896
+run  15 seed ( 14) train 1.000 val 1.000 test 1.000 best epoch 1901
+run  16 seed ( 15) train 1.000 val 1.000 test 1.000 best epoch 1914
+run  17 seed ( 16) train 1.000 val 1.000 test 1.000 best epoch 1946
+run  18 seed ( 17) train 1.000 val 1.000 test 1.000 best epoch 1919
+run  19 seed ( 18) train 1.000 val 1.000 test 1.000 best epoch 1981
+run  20 seed ( 19) train 1.000 val 1.000 test 1.000 best epoch 1978
+run  21 seed ( 20) train 1.000 val 1.000 test 1.000 best epoch 1984
+run  22 seed ( 21) train 1.000 val 1.000 test 1.000 best epoch 1983
+run  23 seed ( 22) train 1.000 val 1.000 test 1.000 best epoch 1743
+run  24 seed ( 23) train 1.000 val 1.000 test 1.000 best epoch 1937
+run  25 seed ( 24) train 1.000 val 1.000 test 1.000 best epoch 1921
+run  26 seed ( 25) train 1.000 val 1.000 test 1.000 best epoch 1914
+run  27 seed ( 26) train 1.000 val 1.000 test 1.000 best epoch 1850
+run  28 seed ( 27) train 1.000 val 1.000 test 1.000 best epoch 1906
+run  29 seed ( 28) train 1.000 val 1.000 test 1.000 best epoch 1934
+run  30 seed ( 29) train 1.000 val 1.000 test 1.000 best epoch 1921
+run  31 seed ( 30) train 1.000 val 1.000 test 1.000 best epoch 1964
+run  32 seed ( 31) train 1.000 val 1.000 test 1.000 best epoch 1957
+run  33 seed ( 32) train 1.000 val 1.000 test 1.000 best epoch 1886
+run  34 seed ( 33) train 1.000 val 1.000 test 1.000 best epoch 1829
+run  35 seed ( 34) train 1.000 val 1.000 test 1.000 best epoch 1992
+run  36 seed ( 35) train 1.000 val 1.000 test 1.000 best epoch 1833
+run  37 seed ( 36) train 1.000 val 1.000 test 1.000 best epoch 1956
+run  38 seed ( 37) train 1.000 val 1.000 test 1.000 best epoch 1897
+run  39 seed ( 38) train 1.000 val 1.000 test 1.000 best epoch 1882
+run  40 seed ( 39) train 1.000 val 1.000 test 1.000 best epoch 1926
+run  41 seed ( 40) train 1.000 val 1.000 test 1.000 best epoch 1971
+run  42 seed ( 41) train 1.000 val 1.000 test 1.000 best epoch 1981
+run  43 seed ( 42) train 1.000 val 1.000 test 1.000 best epoch 1953
+run  44 seed ( 43) train 1.000 val 1.000 test 1.000 best epoch 1977
+run  45 seed ( 44) train 1.000 val 1.000 test 1.000 best epoch 1989
+run  46 seed ( 45) train 1.000 val 1.000 test 1.000 best epoch 1896
+run  47 seed ( 46) train 1.000 val 1.000 test 1.000 best epoch 1878
+run  48 seed ( 47) train 1.000 val 1.000 test 1.000 best epoch 1913
+run  49 seed ( 48) train 1.000 val 1.000 test 1.000 best epoch 1788
+run  50 seed ( 49) train 1.000 val 1.000 test 1.000 best epoch 1943
+
+Summary over 50 runs (mean +/- standard deviation):
+  train accuracy:       1.000 +/- 0.000
+  validation accuracy:  1.000 +/- 0.000
+  test accuracy:        1.000 +/- 0.000
+  best epoch:           1924.540 +/- 55.007
+  total test errors:    0 Class 0 called Class 1, 0 Class 1 called Class 0
+Appended 50 runs to results.csv
+Gaussian 3D Wide: 200 examples, 3 features, hidden=0, runs=50
+run   1 seed (  0) train 1.000 val 1.000 test 1.000 best epoch 1989
+Saved plot to Gaussian 3D Wide_results.png
+run   2 seed (  1) train 1.000 val 1.000 test 1.000 best epoch 1995
+run   3 seed (  2) train 1.000 val 1.000 test 1.000 best epoch 1993
+run   4 seed (  3) train 1.000 val 1.000 test 1.000 best epoch 1997
+run   5 seed (  4) train 1.000 val 1.000 test 1.000 best epoch 1972
+run   6 seed (  5) train 1.000 val 1.000 test 1.000 best epoch 1985
+run   7 seed (  6) train 1.000 val 1.000 test 1.000 best epoch 1982
+run   8 seed (  7) train 1.000 val 1.000 test 1.000 best epoch 1991
+run   9 seed (  8) train 1.000 val 1.000 test 1.000 best epoch 1997
+run  10 seed (  9) train 1.000 val 1.000 test 1.000 best epoch 1989
+run  11 seed ( 10) train 1.000 val 1.000 test 1.000 best epoch 1987
+run  12 seed ( 11) train 1.000 val 1.000 test 1.000 best epoch 2000
+run  13 seed ( 12) train 1.000 val 1.000 test 1.000 best epoch 1993
+run  14 seed ( 13) train 1.000 val 1.000 test 1.000 best epoch 1985
+run  15 seed ( 14) train 1.000 val 1.000 test 1.000 best epoch 1997
+run  16 seed ( 15) train 1.000 val 1.000 test 1.000 best epoch 1987
+run  17 seed ( 16) train 1.000 val 1.000 test 1.000 best epoch 1999
+run  18 seed ( 17) train 1.000 val 1.000 test 1.000 best epoch 1985
+run  19 seed ( 18) train 1.000 val 1.000 test 1.000 best epoch 1995
+run  20 seed ( 19) train 1.000 val 1.000 test 1.000 best epoch 1998
+run  21 seed ( 20) train 1.000 val 1.000 test 1.000 best epoch 2000
+run  22 seed ( 21) train 1.000 val 1.000 test 1.000 best epoch 1999
+run  23 seed ( 22) train 1.000 val 1.000 test 1.000 best epoch 1968
+run  24 seed ( 23) train 1.000 val 1.000 test 1.000 best epoch 1998
+run  25 seed ( 24) train 1.000 val 1.000 test 1.000 best epoch 1993
+run  26 seed ( 25) train 1.000 val 1.000 test 1.000 best epoch 1999
+run  27 seed ( 26) train 1.000 val 1.000 test 1.000 best epoch 1980
+run  28 seed ( 27) train 1.000 val 1.000 test 1.000 best epoch 2000
+run  29 seed ( 28) train 1.000 val 1.000 test 1.000 best epoch 1996
+run  30 seed ( 29) train 1.000 val 1.000 test 1.000 best epoch 1999
+run  31 seed ( 30) train 1.000 val 1.000 test 1.000 best epoch 1999
+run  32 seed ( 31) train 1.000 val 1.000 test 1.000 best epoch 1998
+run  33 seed ( 32) train 1.000 val 1.000 test 1.000 best epoch 1949
+run  34 seed ( 33) train 1.000 val 1.000 test 1.000 best epoch 1936
+run  35 seed ( 34) train 1.000 val 1.000 test 1.000 best epoch 1999
+run  36 seed ( 35) train 1.000 val 1.000 test 1.000 best epoch 1998
+run  37 seed ( 36) train 1.000 val 1.000 test 1.000 best epoch 1974
+run  38 seed ( 37) train 1.000 val 1.000 test 1.000 best epoch 1975
+run  39 seed ( 38) train 1.000 val 1.000 test 1.000 best epoch 1990
+run  40 seed ( 39) train 1.000 val 1.000 test 1.000 best epoch 1985
+run  41 seed ( 40) train 1.000 val 1.000 test 1.000 best epoch 1998
+run  42 seed ( 41) train 1.000 val 1.000 test 1.000 best epoch 1991
+run  43 seed ( 42) train 1.000 val 1.000 test 1.000 best epoch 1991
+run  44 seed ( 43) train 1.000 val 1.000 test 1.000 best epoch 2000
+run  45 seed ( 44) train 1.000 val 1.000 test 1.000 best epoch 1958
+run  46 seed ( 45) train 1.000 val 1.000 test 1.000 best epoch 1990
+run  47 seed ( 46) train 1.000 val 1.000 test 1.000 best epoch 1949
+run  48 seed ( 47) train 1.000 val 1.000 test 1.000 best epoch 2000
+run  49 seed ( 48) train 1.000 val 1.000 test 1.000 best epoch 1997
+run  50 seed ( 49) train 1.000 val 1.000 test 1.000 best epoch 1999
+
+Summary over 50 runs (mean +/- standard deviation):
+  train accuracy:       1.000 +/- 0.000
+  validation accuracy:  1.000 +/- 0.000
+  test accuracy:        1.000 +/- 0.000
+  best epoch:           1988.480 +/- 14.610
+  total test errors:    0 Class 0 called Class 1, 0 Class 1 called Class 0
+Appended 50 runs to results.csv
+Gaussian 3D Narrow: 200 examples, 3 features, hidden=8, runs=50
+run   1 seed (  0) train 1.000 val 1.000 test 1.000 best epoch 1789
+Saved plot to Gaussian 3D Narrow_results.png
+run   2 seed (  1) train 1.000 val 0.975 test 1.000 best epoch 6
+run   3 seed (  2) train 1.000 val 0.975 test 0.950 best epoch 7
+run   4 seed (  3) train 1.000 val 1.000 test 1.000 best epoch 12
+run   5 seed (  4) train 1.000 val 1.000 test 1.000 best epoch 2000
+run   6 seed (  5) train 1.000 val 1.000 test 1.000 best epoch 1956
+run   7 seed (  6) train 1.000 val 1.000 test 1.000 best epoch 7
+run   8 seed (  7) train 1.000 val 1.000 test 1.000 best epoch 1942
+run   9 seed (  8) train 1.000 val 1.000 test 1.000 best epoch 1997
+run  10 seed (  9) train 1.000 val 1.000 test 1.000 best epoch 1959
+run  11 seed ( 10) train 1.000 val 1.000 test 1.000 best epoch 5
+run  12 seed ( 11) train 1.000 val 1.000 test 1.000 best epoch 1827
+run  13 seed ( 12) train 0.993 val 0.925 test 1.000 best epoch 2
+run  14 seed ( 13) train 1.000 val 1.000 test 1.000 best epoch 1985
+run  15 seed ( 14) train 1.000 val 0.975 test 1.000 best epoch 13
+run  16 seed ( 15) train 1.000 val 1.000 test 1.000 best epoch 1987
+run  17 seed ( 16) train 1.000 val 1.000 test 1.000 best epoch 2000
+run  18 seed ( 17) train 1.000 val 1.000 test 0.900 best epoch 1783
+run  19 seed ( 18) train 1.000 val 1.000 test 1.000 best epoch 2000
+run  20 seed ( 19) train 1.000 val 0.975 test 1.000 best epoch 5
+run  21 seed ( 20) train 1.000 val 1.000 test 1.000 best epoch 3
+run  22 seed ( 21) train 1.000 val 0.975 test 1.000 best epoch 1997
+run  23 seed ( 22) train 1.000 val 1.000 test 1.000 best epoch 1961
+run  24 seed ( 23) train 1.000 val 1.000 test 1.000 best epoch 1964
+run  25 seed ( 24) train 1.000 val 1.000 test 1.000 best epoch 1809
+run  26 seed ( 25) train 1.000 val 1.000 test 1.000 best epoch 1955
+run  27 seed ( 26) train 1.000 val 1.000 test 1.000 best epoch 1714
+run  28 seed ( 27) train 1.000 val 1.000 test 1.000 best epoch 1992
+run  29 seed ( 28) train 1.000 val 1.000 test 1.000 best epoch 1996
+run  30 seed ( 29) train 1.000 val 1.000 test 1.000 best epoch 2000
+run  31 seed ( 30) train 1.000 val 1.000 test 1.000 best epoch 5
+run  32 seed ( 31) train 1.000 val 1.000 test 1.000 best epoch 1239
+run  33 seed ( 32) train 1.000 val 1.000 test 1.000 best epoch 1601
+run  34 seed ( 33) train 1.000 val 1.000 test 1.000 best epoch 1735
+run  35 seed ( 34) train 1.000 val 1.000 test 1.000 best epoch 1995
+run  36 seed ( 35) train 1.000 val 1.000 test 0.950 best epoch 5
+run  37 seed ( 36) train 1.000 val 1.000 test 1.000 best epoch 1886
+run  38 seed ( 37) train 1.000 val 1.000 test 1.000 best epoch 1446
+run  39 seed ( 38) train 1.000 val 1.000 test 1.000 best epoch 7
+run  40 seed ( 39) train 1.000 val 1.000 test 1.000 best epoch 1917
+run  41 seed ( 40) train 1.000 val 1.000 test 1.000 best epoch 1935
+run  42 seed ( 41) train 1.000 val 1.000 test 1.000 best epoch 7
+run  43 seed ( 42) train 1.000 val 1.000 test 1.000 best epoch 1998
+run  44 seed ( 43) train 1.000 val 1.000 test 1.000 best epoch 608
+run  45 seed ( 44) train 1.000 val 1.000 test 1.000 best epoch 1974
+run  46 seed ( 45) train 1.000 val 1.000 test 1.000 best epoch 1657
+run  47 seed ( 46) train 1.000 val 1.000 test 1.000 best epoch 1616
+run  48 seed ( 47) train 1.000 val 1.000 test 1.000 best epoch 1837
+run  49 seed ( 48) train 1.000 val 0.950 test 1.000 best epoch 12
+run  50 seed ( 49) train 1.000 val 1.000 test 1.000 best epoch 2000
+
+Summary over 50 runs (mean +/- standard deviation):
+  train accuracy:       1.000 +/- 0.001
+  validation accuracy:  0.995 +/- 0.014
+  test accuracy:        0.996 +/- 0.017
+  best epoch:           1323.060 +/- 861.017
+  total test errors:    0 Class 0 called Class 1, 4 Class 1 called Class 0
+Appended 50 runs to results.csv
+Gaussian 3D Narrow: 200 examples, 3 features, hidden=0, runs=50
+run   1 seed (  0) train 1.000 val 1.000 test 1.000 best epoch 1790
+Saved plot to Gaussian 3D Narrow_results.png
+run   2 seed (  1) train 1.000 val 1.000 test 1.000 best epoch 14
+run   3 seed (  2) train 1.000 val 1.000 test 0.950 best epoch 11
+run   4 seed (  3) train 1.000 val 0.975 test 1.000 best epoch 1976
+run   5 seed (  4) train 1.000 val 1.000 test 1.000 best epoch 1781
+run   6 seed (  5) train 1.000 val 1.000 test 1.000 best epoch 1969
+run   7 seed (  6) train 1.000 val 1.000 test 1.000 best epoch 12
+run   8 seed (  7) train 1.000 val 1.000 test 1.000 best epoch 1997
+run   9 seed (  8) train 1.000 val 1.000 test 1.000 best epoch 1997
+run  10 seed (  9) train 1.000 val 1.000 test 1.000 best epoch 2000
+run  11 seed ( 10) train 1.000 val 0.950 test 1.000 best epoch 10
+run  12 seed ( 11) train 1.000 val 1.000 test 1.000 best epoch 2000
+run  13 seed ( 12) train 1.000 val 1.000 test 1.000 best epoch 8
+run  14 seed ( 13) train 1.000 val 1.000 test 1.000 best epoch 1992
+run  15 seed ( 14) train 1.000 val 1.000 test 1.000 best epoch 10
+run  16 seed ( 15) train 1.000 val 1.000 test 1.000 best epoch 2000
+run  17 seed ( 16) train 1.000 val 1.000 test 1.000 best epoch 2000
+run  18 seed ( 17) train 1.000 val 1.000 test 0.950 best epoch 1993
+run  19 seed ( 18) train 1.000 val 1.000 test 1.000 best epoch 2000
+run  20 seed ( 19) train 1.000 val 1.000 test 1.000 best epoch 9
+run  21 seed ( 20) train 1.000 val 0.950 test 1.000 best epoch 36
+run  22 seed ( 21) train 1.000 val 0.975 test 1.000 best epoch 1998
+run  23 seed ( 22) train 1.000 val 1.000 test 1.000 best epoch 1961
+run  24 seed ( 23) train 1.000 val 1.000 test 1.000 best epoch 1987
+run  25 seed ( 24) train 1.000 val 1.000 test 1.000 best epoch 1993
+run  26 seed ( 25) train 1.000 val 1.000 test 1.000 best epoch 1955
+run  27 seed ( 26) train 1.000 val 1.000 test 1.000 best epoch 1959
+run  28 seed ( 27) train 1.000 val 1.000 test 1.000 best epoch 1999
+run  29 seed ( 28) train 1.000 val 1.000 test 1.000 best epoch 1997
+run  30 seed ( 29) train 1.000 val 1.000 test 1.000 best epoch 1999
+run  31 seed ( 30) train 1.000 val 1.000 test 1.000 best epoch 12
+run  32 seed ( 31) train 1.000 val 1.000 test 1.000 best epoch 1995
+run  33 seed ( 32) train 1.000 val 1.000 test 1.000 best epoch 1894
+run  34 seed ( 33) train 1.000 val 1.000 test 1.000 best epoch 1731
+run  35 seed ( 34) train 1.000 val 1.000 test 1.000 best epoch 1998
+run  36 seed ( 35) train 1.000 val 0.975 test 0.950 best epoch 12
+run  37 seed ( 36) train 1.000 val 1.000 test 1.000 best epoch 1988
+run  38 seed ( 37) train 1.000 val 1.000 test 1.000 best epoch 1998
+run  39 seed ( 38) train 1.000 val 1.000 test 1.000 best epoch 44
+run  40 seed ( 39) train 1.000 val 1.000 test 1.000 best epoch 2000
+run  41 seed ( 40) train 1.000 val 1.000 test 1.000 best epoch 1622
+run  42 seed ( 41) train 1.000 val 0.975 test 1.000 best epoch 87
+run  43 seed ( 42) train 1.000 val 1.000 test 1.000 best epoch 2000
+run  44 seed ( 43) train 1.000 val 1.000 test 1.000 best epoch 1898
+run  45 seed ( 44) train 1.000 val 1.000 test 1.000 best epoch 2000
+run  46 seed ( 45) train 1.000 val 1.000 test 1.000 best epoch 1768
+run  47 seed ( 46) train 1.000 val 1.000 test 1.000 best epoch 1993
+run  48 seed ( 47) train 1.000 val 1.000 test 1.000 best epoch 1881
+run  49 seed ( 48) train 1.000 val 0.950 test 1.000 best epoch 30
+run  50 seed ( 49) train 1.000 val 1.000 test 1.000 best epoch 2000
+
+Summary over 50 runs (mean +/- standard deviation):
+  train accuracy:       1.000 +/- 0.000
+  validation accuracy:  0.995 +/- 0.013
+  test accuracy:        0.997 +/- 0.012
+  best epoch:           1448.080 +/- 857.218
+  total test errors:    0 Class 0 called Class 1, 3 Class 1 called Class 0
+Appended 50 runs to results.csv
+Gaussian 3D Overlap: 200 examples, 3 features, hidden=8, runs=50
+run   1 seed (  0) train 0.964 val 0.975 test 0.950 best epoch 5
+Saved plot to Gaussian 3D Overlap_results.png
+run   2 seed (  1) train 0.979 val 0.925 test 1.000 best epoch 3
+run   3 seed (  2) train 0.943 val 0.975 test 1.000 best epoch 4
+run   4 seed (  3) train 0.986 val 0.900 test 0.950 best epoch 3
+run   5 seed (  4) train 0.971 val 0.950 test 1.000 best epoch 3
+run   6 seed (  5) train 0.964 val 0.975 test 1.000 best epoch 47
+run   7 seed (  6) train 0.950 val 1.000 test 1.000 best epoch 6
+run   8 seed (  7) train 0.957 val 0.975 test 0.950 best epoch 8
+run   9 seed (  8) train 0.979 val 0.975 test 0.900 best epoch 5
+run  10 seed (  9) train 0.957 val 0.950 test 1.000 best epoch 3
+run  11 seed ( 10) train 0.979 val 1.000 test 0.950 best epoch 73
+run  12 seed ( 11) train 0.979 val 0.950 test 0.900 best epoch 67
+run  13 seed ( 12) train 0.957 val 0.975 test 1.000 best epoch 14
+run  14 seed ( 13) train 0.979 val 0.975 test 0.900 best epoch 12
+run  15 seed ( 14) train 0.971 val 0.950 test 0.950 best epoch 81
+run  16 seed ( 15) train 1.000 val 1.000 test 0.950 best epoch 2000
+run  17 seed ( 16) train 0.979 val 0.900 test 1.000 best epoch 3
+run  18 seed ( 17) train 0.957 val 0.975 test 0.900 best epoch 91
+run  19 seed ( 18) train 0.936 val 1.000 test 1.000 best epoch 7
+run  20 seed ( 19) train 0.964 val 0.925 test 0.850 best epoch 3
+run  21 seed ( 20) train 1.000 val 1.000 test 0.850 best epoch 1998
+run  22 seed ( 21) train 0.971 val 0.925 test 1.000 best epoch 3
+run  23 seed ( 22) train 0.979 val 0.950 test 0.950 best epoch 2
+run  24 seed ( 23) train 0.979 val 0.900 test 0.950 best epoch 3
+run  25 seed ( 24) train 0.964 val 0.950 test 0.950 best epoch 18
+run  26 seed ( 25) train 0.971 val 0.950 test 1.000 best epoch 2
+run  27 seed ( 26) train 0.957 val 1.000 test 0.950 best epoch 7
+run  28 seed ( 27) train 0.950 val 0.950 test 1.000 best epoch 14
+run  29 seed ( 28) train 0.957 val 0.975 test 1.000 best epoch 30
+run  30 seed ( 29) train 0.957 val 0.950 test 1.000 best epoch 23
+run  31 seed ( 30) train 0.964 val 0.925 test 0.950 best epoch 2
+run  32 seed ( 31) train 0.957 val 1.000 test 0.950 best epoch 7
+run  33 seed ( 32) train 0.971 val 0.975 test 0.950 best epoch 3
+run  34 seed ( 33) train 0.957 val 0.975 test 0.950 best epoch 38
+run  35 seed ( 34) train 0.979 val 0.950 test 0.950 best epoch 40
+run  36 seed ( 35) train 0.957 val 1.000 test 0.950 best epoch 7
+run  37 seed ( 36) train 0.957 val 0.975 test 1.000 best epoch 4
+run  38 seed ( 37) train 0.957 val 0.975 test 0.950 best epoch 5
+run  39 seed ( 38) train 0.971 val 0.950 test 0.950 best epoch 61
+run  40 seed ( 39) train 0.971 val 0.925 test 1.000 best epoch 3
+run  41 seed ( 40) train 0.971 val 0.975 test 0.900 best epoch 3
+run  42 seed ( 41) train 0.957 val 0.925 test 0.950 best epoch 3
+run  43 seed ( 42) train 0.964 val 0.950 test 0.950 best epoch 103
+run  44 seed ( 43) train 1.000 val 1.000 test 0.850 best epoch 1907
+run  45 seed ( 44) train 0.986 val 1.000 test 0.850 best epoch 166
+run  46 seed ( 45) train 0.964 val 1.000 test 0.900 best epoch 9
+run  47 seed ( 46) train 0.993 val 1.000 test 1.000 best epoch 1138
+run  48 seed ( 47) train 0.957 val 1.000 test 1.000 best epoch 73
+run  49 seed ( 48) train 0.950 val 0.950 test 0.950 best epoch 2
+run  50 seed ( 49) train 0.964 val 0.925 test 0.950 best epoch 3
+
+Summary over 50 runs (mean +/- standard deviation):
+  train accuracy:       0.968 +/- 0.014
+  validation accuracy:  0.963 +/- 0.030
+  test accuracy:        0.954 +/- 0.045
+  best epoch:           162.300 +/- 488.368
+  total test errors:    27 Class 0 called Class 1, 19 Class 1 called Class 0
+Appended 50 runs to results.csv
+Gaussian 3D Overlap: 200 examples, 3 features, hidden=0, runs=50
+run   1 seed (  0) train 0.964 val 0.950 test 0.950 best epoch 1135
+Saved plot to Gaussian 3D Overlap_results.png
+run   2 seed (  1) train 0.971 val 0.900 test 1.000 best epoch 5
+run   3 seed (  2) train 0.943 val 0.975 test 1.000 best epoch 1171
+run   4 seed (  3) train 0.986 val 0.900 test 0.950 best epoch 4
+run   5 seed (  4) train 0.957 val 0.950 test 1.000 best epoch 8
+run   6 seed (  5) train 0.957 val 0.950 test 1.000 best epoch 857
+run   7 seed (  6) train 0.950 val 0.975 test 1.000 best epoch 12
+run   8 seed (  7) train 0.964 val 0.975 test 0.950 best epoch 1666
+run   9 seed (  8) train 0.979 val 0.950 test 0.900 best epoch 430
+run  10 seed (  9) train 0.964 val 0.950 test 1.000 best epoch 1109
+run  11 seed ( 10) train 0.950 val 0.975 test 0.950 best epoch 1481
+run  12 seed ( 11) train 0.964 val 0.950 test 0.950 best epoch 1484
+run  13 seed ( 12) train 0.950 val 0.975 test 1.000 best epoch 747
+run  14 seed ( 13) train 0.971 val 0.975 test 0.900 best epoch 53
+run  15 seed ( 14) train 0.957 val 0.975 test 0.950 best epoch 8
+run  16 seed ( 15) train 0.950 val 0.975 test 1.000 best epoch 1647
+run  17 seed ( 16) train 0.979 val 0.900 test 1.000 best epoch 5
+run  18 seed ( 17) train 0.957 val 0.975 test 0.900 best epoch 633
+run  19 seed ( 18) train 0.943 val 1.000 test 1.000 best epoch 806
+run  20 seed ( 19) train 0.971 val 0.925 test 0.900 best epoch 3
+run  21 seed ( 20) train 0.957 val 1.000 test 0.950 best epoch 631
+run  22 seed ( 21) train 0.971 val 0.925 test 1.000 best epoch 4
+run  23 seed ( 22) train 0.971 val 0.950 test 0.950 best epoch 16
+run  24 seed ( 23) train 0.979 val 0.900 test 1.000 best epoch 8
+run  25 seed ( 24) train 0.964 val 0.950 test 0.950 best epoch 421
+run  26 seed ( 25) train 0.964 val 0.925 test 1.000 best epoch 28
+run  27 seed ( 26) train 0.950 val 1.000 test 0.950 best epoch 658
+run  28 seed ( 27) train 0.950 val 0.975 test 1.000 best epoch 7
+run  29 seed ( 28) train 0.943 val 0.975 test 1.000 best epoch 56
+run  30 seed ( 29) train 0.957 val 0.950 test 1.000 best epoch 9
+run  31 seed ( 30) train 0.979 val 0.925 test 0.950 best epoch 4
+run  32 seed ( 31) train 0.957 val 1.000 test 0.950 best epoch 1711
+run  33 seed ( 32) train 0.964 val 0.975 test 0.950 best epoch 13
+run  34 seed ( 33) train 0.957 val 0.975 test 0.950 best epoch 38
+run  35 seed ( 34) train 0.971 val 0.925 test 0.950 best epoch 73
+run  36 seed ( 35) train 0.950 val 1.000 test 0.950 best epoch 1710
+run  37 seed ( 36) train 0.957 val 0.925 test 1.000 best epoch 15
+run  38 seed ( 37) train 0.964 val 0.975 test 1.000 best epoch 6
+run  39 seed ( 38) train 0.964 val 0.950 test 0.950 best epoch 711
+run  40 seed ( 39) train 0.964 val 0.925 test 1.000 best epoch 36
+run  41 seed ( 40) train 0.979 val 0.975 test 0.900 best epoch 9
+run  42 seed ( 41) train 0.979 val 0.925 test 0.950 best epoch 11
+run  43 seed ( 42) train 0.964 val 0.975 test 0.950 best epoch 7
+run  44 seed ( 43) train 0.971 val 1.000 test 0.850 best epoch 1349
+run  45 seed ( 44) train 0.979 val 0.975 test 0.850 best epoch 146
+run  46 seed ( 45) train 0.964 val 1.000 test 0.900 best epoch 787
+run  47 seed ( 46) train 0.943 val 1.000 test 1.000 best epoch 1759
+run  48 seed ( 47) train 0.950 val 1.000 test 1.000 best epoch 8
+run  49 seed ( 48) train 0.971 val 0.950 test 0.950 best epoch 10
+run  50 seed ( 49) train 0.964 val 0.950 test 1.000 best epoch 6
+
+Summary over 50 runs (mean +/- standard deviation):
+  train accuracy:       0.963 +/- 0.011
+  validation accuracy:  0.960 +/- 0.030
+  test accuracy:        0.962 +/- 0.041
+  best epoch:           470.220 +/- 609.149
+  total test errors:    26 Class 0 called Class 1, 12 Class 1 called Class 0
+Appended 50 runs to results.csv
+Moons 2D Wide: 1000 examples, 2 features, hidden=8, runs=50
+run   1 seed (  0) train 1.000 val 1.000 test 1.000 best epoch 1918
+Saved plot to Moons 2D Wide_results.png
+run   2 seed (  1) train 1.000 val 1.000 test 1.000 best epoch 1995
+run   3 seed (  2) train 1.000 val 1.000 test 1.000 best epoch 1975
+run   4 seed (  3) train 1.000 val 0.995 test 1.000 best epoch 53
+run   5 seed (  4) train 1.000 val 1.000 test 1.000 best epoch 1978
+run   6 seed (  5) train 1.000 val 1.000 test 1.000 best epoch 1996
+run   7 seed (  6) train 1.000 val 1.000 test 1.000 best epoch 1999
+run   8 seed (  7) train 1.000 val 1.000 test 1.000 best epoch 1956
+run   9 seed (  8) train 1.000 val 0.995 test 1.000 best epoch 90
+run  10 seed (  9) train 1.000 val 1.000 test 1.000 best epoch 1905
+run  11 seed ( 10) train 1.000 val 0.995 test 1.000 best epoch 170
+run  12 seed ( 11) train 1.000 val 1.000 test 1.000 best epoch 1957
+run  13 seed ( 12) train 1.000 val 1.000 test 1.000 best epoch 1975
+run  14 seed ( 13) train 1.000 val 1.000 test 1.000 best epoch 1965
+run  15 seed ( 14) train 1.000 val 1.000 test 1.000 best epoch 335
+run  16 seed ( 15) train 1.000 val 1.000 test 1.000 best epoch 1987
+run  17 seed ( 16) train 1.000 val 1.000 test 1.000 best epoch 1517
+run  18 seed ( 17) train 1.000 val 0.990 test 1.000 best epoch 407
+run  19 seed ( 18) train 1.000 val 1.000 test 1.000 best epoch 1973
+run  20 seed ( 19) train 1.000 val 1.000 test 1.000 best epoch 1978
+run  21 seed ( 20) train 1.000 val 1.000 test 1.000 best epoch 1982
+run  22 seed ( 21) train 1.000 val 1.000 test 1.000 best epoch 1994
+run  23 seed ( 22) train 1.000 val 1.000 test 1.000 best epoch 1905
+run  24 seed ( 23) train 1.000 val 1.000 test 1.000 best epoch 448
+run  25 seed ( 24) train 1.000 val 1.000 test 1.000 best epoch 1983
+run  26 seed ( 25) train 1.000 val 1.000 test 1.000 best epoch 1985
+run  27 seed ( 26) train 1.000 val 1.000 test 1.000 best epoch 1927
+run  28 seed ( 27) train 1.000 val 1.000 test 1.000 best epoch 1919
+run  29 seed ( 28) train 1.000 val 1.000 test 1.000 best epoch 1875
+run  30 seed ( 29) train 1.000 val 1.000 test 1.000 best epoch 484
+run  31 seed ( 30) train 1.000 val 1.000 test 1.000 best epoch 1958
+run  32 seed ( 31) train 1.000 val 1.000 test 1.000 best epoch 1999
+run  33 seed ( 32) train 1.000 val 1.000 test 1.000 best epoch 1975
+run  34 seed ( 33) train 1.000 val 0.995 test 1.000 best epoch 1894
+run  35 seed ( 34) train 1.000 val 1.000 test 1.000 best epoch 2000
+run  36 seed ( 35) train 1.000 val 1.000 test 1.000 best epoch 642
+run  37 seed ( 36) train 1.000 val 1.000 test 1.000 best epoch 1984
+run  38 seed ( 37) train 1.000 val 1.000 test 1.000 best epoch 1995
+run  39 seed ( 38) train 1.000 val 1.000 test 1.000 best epoch 1993
+run  40 seed ( 39) train 1.000 val 1.000 test 1.000 best epoch 1997
+run  41 seed ( 40) train 1.000 val 1.000 test 1.000 best epoch 1976
+run  42 seed ( 41) train 1.000 val 0.995 test 1.000 best epoch 73
+run  43 seed ( 42) train 1.000 val 0.995 test 1.000 best epoch 499
+run  44 seed ( 43) train 1.000 val 1.000 test 1.000 best epoch 1989
+run  45 seed ( 44) train 1.000 val 1.000 test 1.000 best epoch 1985
+run  46 seed ( 45) train 1.000 val 1.000 test 1.000 best epoch 1995
+run  47 seed ( 46) train 1.000 val 1.000 test 1.000 best epoch 1983
+run  48 seed ( 47) train 1.000 val 0.995 test 1.000 best epoch 138
+run  49 seed ( 48) train 1.000 val 0.995 test 1.000 best epoch 282
+run  50 seed ( 49) train 1.000 val 1.000 test 1.000 best epoch 1973
+
+Summary over 50 runs (mean +/- standard deviation):
+  train accuracy:       1.000 +/- 0.000
+  validation accuracy:  0.999 +/- 0.002
+  test accuracy:        1.000 +/- 0.000
+  best epoch:           1559.220 +/- 723.228
+  total test errors:    0 Class 0 called Class 1, 0 Class 1 called Class 0
+Appended 50 runs to results.csv
+Moons 2D Wide: 1000 examples, 2 features, hidden=0, runs=50
+run   1 seed (  0) train 0.863 val 0.910 test 0.940 best epoch 670
+Saved plot to Moons 2D Wide_results.png
+run   2 seed (  1) train 0.886 val 0.890 test 0.840 best epoch 1086
+run   3 seed (  2) train 0.880 val 0.875 test 0.860 best epoch 1394
+run   4 seed (  3) train 0.889 val 0.870 test 0.860 best epoch 796
+run   5 seed (  4) train 0.870 val 0.885 test 0.930 best epoch 1159
+run   6 seed (  5) train 0.883 val 0.885 test 0.860 best epoch 851
+run   7 seed (  6) train 0.871 val 0.890 test 0.950 best epoch 2
+run   8 seed (  7) train 0.876 val 0.865 test 0.920 best epoch 280
+run   9 seed (  8) train 0.869 val 0.885 test 0.940 best epoch 1465
+run  10 seed (  9) train 0.869 val 0.915 test 0.870 best epoch 2
+run  11 seed ( 10) train 0.881 val 0.875 test 0.860 best epoch 2
+run  12 seed ( 11) train 0.881 val 0.880 test 0.860 best epoch 551
+run  13 seed ( 12) train 0.867 val 0.910 test 0.880 best epoch 346
+run  14 seed ( 13) train 0.881 val 0.885 test 0.880 best epoch 240
+run  15 seed ( 14) train 0.877 val 0.895 test 0.860 best epoch 1230
+run  16 seed ( 15) train 0.876 val 0.870 test 0.900 best epoch 1463
+run  17 seed ( 16) train 0.881 val 0.860 test 0.890 best epoch 999
+run  18 seed ( 17) train 0.893 val 0.855 test 0.850 best epoch 1563
+run  19 seed ( 18) train 0.877 val 0.890 test 0.860 best epoch 1210
+run  20 seed ( 19) train 0.877 val 0.895 test 0.890 best epoch 1799
+run  21 seed ( 20) train 0.876 val 0.895 test 0.880 best epoch 651
+run  22 seed ( 21) train 0.881 val 0.885 test 0.840 best epoch 1577
+run  23 seed ( 22) train 0.893 val 0.860 test 0.840 best epoch 1561
+run  24 seed ( 23) train 0.871 val 0.895 test 0.900 best epoch 359
+run  25 seed ( 24) train 0.884 val 0.865 test 0.900 best epoch 357
+run  26 seed ( 25) train 0.870 val 0.870 test 0.950 best epoch 702
+run  27 seed ( 26) train 0.886 val 0.855 test 0.910 best epoch 124
+run  28 seed ( 27) train 0.879 val 0.895 test 0.880 best epoch 773
+run  29 seed ( 28) train 0.884 val 0.895 test 0.840 best epoch 726
+run  30 seed ( 29) train 0.874 val 0.880 test 0.910 best epoch 1363
+run  31 seed ( 30) train 0.886 val 0.855 test 0.880 best epoch 6
+run  32 seed ( 31) train 0.881 val 0.865 test 0.900 best epoch 107
+run  33 seed ( 32) train 0.883 val 0.880 test 0.880 best epoch 1606
+run  34 seed ( 33) train 0.876 val 0.885 test 0.880 best epoch 698
+run  35 seed ( 34) train 0.881 val 0.870 test 0.840 best epoch 2
+run  36 seed ( 35) train 0.874 val 0.895 test 0.870 best epoch 1307
+run  37 seed ( 36) train 0.869 val 0.895 test 0.920 best epoch 3
+run  38 seed ( 37) train 0.887 val 0.870 test 0.860 best epoch 1308
+run  39 seed ( 38) train 0.891 val 0.865 test 0.830 best epoch 407
+run  40 seed ( 39) train 0.883 val 0.880 test 0.880 best epoch 493
+run  41 seed ( 40) train 0.893 val 0.855 test 0.830 best epoch 741
+run  42 seed ( 41) train 0.880 val 0.905 test 0.830 best epoch 2
+run  43 seed ( 42) train 0.884 val 0.855 test 0.880 best epoch 1384
+run  44 seed ( 43) train 0.893 val 0.870 test 0.790 best epoch 1071
+run  45 seed ( 44) train 0.873 val 0.905 test 0.890 best epoch 1147
+run  46 seed ( 45) train 0.883 val 0.875 test 0.870 best epoch 26
+run  47 seed ( 46) train 0.870 val 0.890 test 0.910 best epoch 3
+run  48 seed ( 47) train 0.883 val 0.880 test 0.880 best epoch 627
+run  49 seed ( 48) train 0.881 val 0.875 test 0.870 best epoch 1114
+run  50 seed ( 49) train 0.879 val 0.895 test 0.830 best epoch 613
+
+Summary over 50 runs (mean +/- standard deviation):
+  train accuracy:       0.880 +/- 0.007
+  validation accuracy:  0.881 +/- 0.016
+  test accuracy:        0.877 +/- 0.034
+  best epoch:           759.320 +/- 551.111
+  total test errors:    295 Class 0 called Class 1, 318 Class 1 called Class 0
+Appended 50 runs to results.csv
+Moons 2D Narrow: 1000 examples, 2 features, hidden=8, runs=50
+run   1 seed (  0) train 0.999 val 0.995 test 1.000 best epoch 88
+Saved plot to Moons 2D Narrow_results.png
+run   2 seed (  1) train 1.000 val 0.995 test 1.000 best epoch 130
+run   3 seed (  2) train 1.000 val 0.995 test 0.990 best epoch 143
+run   4 seed (  3) train 1.000 val 0.990 test 1.000 best epoch 42
+run   5 seed (  4) train 1.000 val 1.000 test 1.000 best epoch 1994
+run   6 seed (  5) train 1.000 val 0.995 test 1.000 best epoch 164
+run   7 seed (  6) train 1.000 val 0.985 test 1.000 best epoch 58
+run   8 seed (  7) train 0.999 val 1.000 test 1.000 best epoch 505
+run   9 seed (  8) train 1.000 val 0.995 test 1.000 best epoch 90
+run  10 seed (  9) train 0.999 val 1.000 test 1.000 best epoch 73
+run  11 seed ( 10) train 1.000 val 0.990 test 1.000 best epoch 66
+run  12 seed ( 11) train 1.000 val 1.000 test 1.000 best epoch 1993
+run  13 seed ( 12) train 1.000 val 1.000 test 0.990 best epoch 1978
+run  14 seed ( 13) train 1.000 val 1.000 test 0.990 best epoch 1961
+run  15 seed ( 14) train 1.000 val 0.995 test 0.990 best epoch 183
+run  16 seed ( 15) train 1.000 val 1.000 test 1.000 best epoch 1999
+run  17 seed ( 16) train 0.999 val 0.995 test 1.000 best epoch 214
+run  18 seed ( 17) train 0.999 val 0.990 test 1.000 best epoch 74
+run  19 seed ( 18) train 1.000 val 1.000 test 1.000 best epoch 1939
+run  20 seed ( 19) train 1.000 val 1.000 test 1.000 best epoch 1944
+run  21 seed ( 20) train 0.999 val 1.000 test 1.000 best epoch 1620
+run  22 seed ( 21) train 1.000 val 0.995 test 1.000 best epoch 179
+run  23 seed ( 22) train 0.999 val 0.995 test 1.000 best epoch 279
+run  24 seed ( 23) train 0.999 val 0.995 test 1.000 best epoch 232
+run  25 seed ( 24) train 0.999 val 1.000 test 1.000 best epoch 210
+run  26 seed ( 25) train 1.000 val 1.000 test 0.990 best epoch 1996
+run  27 seed ( 26) train 1.000 val 1.000 test 1.000 best epoch 1972
+run  28 seed ( 27) train 1.000 val 1.000 test 0.990 best epoch 1940
+run  29 seed ( 28) train 1.000 val 1.000 test 1.000 best epoch 1715
+run  30 seed ( 29) train 1.000 val 1.000 test 0.990 best epoch 76
+run  31 seed ( 30) train 1.000 val 1.000 test 1.000 best epoch 1951
+run  32 seed ( 31) train 1.000 val 0.995 test 1.000 best epoch 107
+run  33 seed ( 32) train 0.999 val 1.000 test 1.000 best epoch 96
+run  34 seed ( 33) train 1.000 val 0.985 test 0.990 best epoch 47
+run  35 seed ( 34) train 1.000 val 0.995 test 1.000 best epoch 130
+run  36 seed ( 35) train 0.999 val 0.995 test 1.000 best epoch 88
+run  37 seed ( 36) train 0.999 val 1.000 test 0.990 best epoch 1947
+run  38 seed ( 37) train 0.999 val 1.000 test 1.000 best epoch 533
+run  39 seed ( 38) train 1.000 val 0.995 test 1.000 best epoch 129
+run  40 seed ( 39) train 1.000 val 0.995 test 1.000 best epoch 150
+run  41 seed ( 40) train 0.999 val 0.995 test 0.990 best epoch 75
+run  42 seed ( 41) train 1.000 val 0.995 test 1.000 best epoch 108
+run  43 seed ( 42) train 0.999 val 0.985 test 1.000 best epoch 137
+run  44 seed ( 43) train 1.000 val 1.000 test 1.000 best epoch 1958
+run  45 seed ( 44) train 1.000 val 0.995 test 1.000 best epoch 111
+run  46 seed ( 45) train 1.000 val 0.995 test 1.000 best epoch 68
+run  47 seed ( 46) train 1.000 val 0.995 test 1.000 best epoch 67
+run  48 seed ( 47) train 1.000 val 0.995 test 1.000 best epoch 51
+run  49 seed ( 48) train 1.000 val 0.995 test 1.000 best epoch 55
+run  50 seed ( 49) train 1.000 val 1.000 test 1.000 best epoch 1326
+
+Summary over 50 runs (mean +/- standard deviation):
+  train accuracy:       1.000 +/- 0.001
+  validation accuracy:  0.996 +/- 0.004
+  test accuracy:        0.998 +/- 0.004
+  best epoch:           699.820 +/- 835.769
+  total test errors:    8 Class 0 called Class 1, 2 Class 1 called Class 0
+Appended 50 runs to results.csv
+Moons 2D Narrow: 1000 examples, 2 features, hidden=0, runs=50
+run   1 seed (  0) train 0.857 val 0.905 test 0.960 best epoch 670
+Saved plot to Moons 2D Narrow_results.png
+run   2 seed (  1) train 0.883 val 0.880 test 0.830 best epoch 1804
+run   3 seed (  2) train 0.879 val 0.880 test 0.860 best epoch 1394
+run   4 seed (  3) train 0.884 val 0.875 test 0.850 best epoch 796
+run   5 seed (  4) train 0.866 val 0.885 test 0.920 best epoch 1159
+run   6 seed (  5) train 0.879 val 0.890 test 0.850 best epoch 626
+run   7 seed (  6) train 0.867 val 0.880 test 0.950 best epoch 2
+run   8 seed (  7) train 0.874 val 0.865 test 0.920 best epoch 482
+run   9 seed (  8) train 0.867 val 0.880 test 0.940 best epoch 420
+run  10 seed (  9) train 0.867 val 0.910 test 0.870 best epoch 2
+run  11 seed ( 10) train 0.874 val 0.885 test 0.860 best epoch 2
+run  12 seed ( 11) train 0.881 val 0.875 test 0.850 best epoch 519
+run  13 seed ( 12) train 0.864 val 0.910 test 0.900 best epoch 346
+run  14 seed ( 13) train 0.877 val 0.885 test 0.870 best epoch 1570
+run  15 seed ( 14) train 0.876 val 0.890 test 0.840 best epoch 499
+run  16 seed ( 15) train 0.874 val 0.870 test 0.900 best epoch 1463
+run  17 seed ( 16) train 0.880 val 0.860 test 0.880 best epoch 999
+run  18 seed ( 17) train 0.887 val 0.870 test 0.840 best epoch 1844
+run  19 seed ( 18) train 0.879 val 0.895 test 0.850 best epoch 1019
+run  20 seed ( 19) train 0.876 val 0.885 test 0.880 best epoch 1799
+run  21 seed ( 20) train 0.873 val 0.895 test 0.850 best epoch 145
+run  22 seed ( 21) train 0.879 val 0.885 test 0.850 best epoch 1577
+run  23 seed ( 22) train 0.889 val 0.850 test 0.830 best epoch 1561
+run  24 seed ( 23) train 0.873 val 0.885 test 0.890 best epoch 359
+run  25 seed ( 24) train 0.879 val 0.865 test 0.900 best epoch 357
+run  26 seed ( 25) train 0.870 val 0.870 test 0.950 best epoch 1431
+run  27 seed ( 26) train 0.881 val 0.850 test 0.910 best epoch 124
+run  28 seed ( 27) train 0.871 val 0.900 test 0.880 best epoch 4
+run  29 seed ( 28) train 0.879 val 0.895 test 0.840 best epoch 3
+run  30 seed ( 29) train 0.869 val 0.885 test 0.900 best epoch 1363
+run  31 seed ( 30) train 0.881 val 0.860 test 0.880 best epoch 6
+run  32 seed ( 31) train 0.881 val 0.860 test 0.880 best epoch 107
+run  33 seed ( 32) train 0.879 val 0.875 test 0.880 best epoch 1606
+run  34 seed ( 33) train 0.876 val 0.885 test 0.870 best epoch 1872
+run  35 seed ( 34) train 0.883 val 0.865 test 0.840 best epoch 802
+run  36 seed ( 35) train 0.873 val 0.895 test 0.870 best epoch 1307
+run  37 seed ( 36) train 0.863 val 0.895 test 0.920 best epoch 3
+run  38 seed ( 37) train 0.884 val 0.860 test 0.870 best epoch 1121
+run  39 seed ( 38) train 0.891 val 0.840 test 0.840 best epoch 407
+run  40 seed ( 39) train 0.879 val 0.870 test 0.880 best epoch 968
+run  41 seed ( 40) train 0.891 val 0.850 test 0.830 best epoch 1359
+run  42 seed ( 41) train 0.876 val 0.900 test 0.830 best epoch 2
+run  43 seed ( 42) train 0.881 val 0.855 test 0.880 best epoch 1384
+run  44 seed ( 43) train 0.893 val 0.865 test 0.780 best epoch 1071
+run  45 seed ( 44) train 0.869 val 0.910 test 0.880 best epoch 1147
+run  46 seed ( 45) train 0.879 val 0.875 test 0.870 best epoch 26
+run  47 seed ( 46) train 0.869 val 0.890 test 0.900 best epoch 39
+run  48 seed ( 47) train 0.874 val 0.875 test 0.890 best epoch 627
+run  49 seed ( 48) train 0.879 val 0.880 test 0.850 best epoch 1114
+run  50 seed ( 49) train 0.883 val 0.880 test 0.820 best epoch 170
+
+Summary over 50 runs (mean +/- standard deviation):
+  train accuracy:       0.877 +/- 0.008
+  validation accuracy:  0.879 +/- 0.017
+  test accuracy:        0.874 +/- 0.036
+  best epoch:           789.540 +/- 622.534
+  total test errors:    310 Class 0 called Class 1, 322 Class 1 called Class 0
+Appended 50 runs to results.csv
+Moons 2D Overlap: 1000 examples, 2 features, hidden=8, runs=50
+run   1 seed (  0) train 0.943 val 0.935 test 0.940 best epoch 35
+Saved plot to Moons 2D Overlap_results.png
+run   2 seed (  1) train 0.943 val 0.955 test 0.900 best epoch 129
+run   3 seed (  2) train 0.950 val 0.945 test 0.930 best epoch 671
+run   4 seed (  3) train 0.934 val 0.925 test 0.950 best epoch 28
+run   5 seed (  4) train 0.940 val 0.955 test 0.980 best epoch 49
+run   6 seed (  5) train 0.937 val 0.925 test 0.920 best epoch 36
+run   7 seed (  6) train 0.939 val 0.940 test 0.940 best epoch 102
+run   8 seed (  7) train 0.946 val 0.955 test 0.940 best epoch 281
+run   9 seed (  8) train 0.936 val 0.935 test 0.960 best epoch 36
+run  10 seed (  9) train 0.937 val 0.940 test 0.940 best epoch 81
+run  11 seed ( 10) train 0.950 val 0.950 test 0.910 best epoch 134
+run  12 seed ( 11) train 0.931 val 0.960 test 0.950 best epoch 102
+run  13 seed ( 12) train 0.947 val 0.945 test 0.960 best epoch 61
+run  14 seed ( 13) train 0.941 val 0.955 test 0.920 best epoch 72
+run  15 seed ( 14) train 0.946 val 0.945 test 0.930 best epoch 162
+run  16 seed ( 15) train 0.949 val 0.925 test 0.950 best epoch 46
+run  17 seed ( 16) train 0.946 val 0.915 test 0.930 best epoch 33
+run  18 seed ( 17) train 0.960 val 0.925 test 0.950 best epoch 75
+run  19 seed ( 18) train 0.946 val 0.945 test 0.930 best epoch 113
+run  20 seed ( 19) train 0.951 val 0.945 test 0.960 best epoch 390
+run  21 seed ( 20) train 0.940 val 0.965 test 0.930 best epoch 138
+run  22 seed ( 21) train 0.944 val 0.935 test 0.970 best epoch 84
+run  23 seed ( 22) train 0.950 val 0.925 test 0.930 best epoch 63
+run  24 seed ( 23) train 0.946 val 0.940 test 0.940 best epoch 28
+run  25 seed ( 24) train 0.946 val 0.930 test 0.940 best epoch 49
+run  26 seed ( 25) train 0.949 val 0.940 test 0.970 best epoch 49
+run  27 seed ( 26) train 0.937 val 0.945 test 0.980 best epoch 51
+run  28 seed ( 27) train 0.946 val 0.960 test 0.940 best epoch 61
+run  29 seed ( 28) train 0.943 val 0.960 test 0.910 best epoch 266
+run  30 seed ( 29) train 0.946 val 0.945 test 0.920 best epoch 292
+run  31 seed ( 30) train 0.946 val 0.935 test 0.920 best epoch 90
+run  32 seed ( 31) train 0.943 val 0.955 test 0.940 best epoch 39
+run  33 seed ( 32) train 0.954 val 0.940 test 0.930 best epoch 1126
+run  34 seed ( 33) train 0.937 val 0.935 test 0.910 best epoch 27
+run  35 seed ( 34) train 0.949 val 0.960 test 0.940 best epoch 495
+run  36 seed ( 35) train 0.943 val 0.975 test 0.950 best epoch 410
+run  37 seed ( 36) train 0.947 val 0.950 test 0.960 best epoch 247
+run  38 seed ( 37) train 0.949 val 0.950 test 0.940 best epoch 134
+run  39 seed ( 38) train 0.954 val 0.940 test 0.940 best epoch 167
+run  40 seed ( 39) train 0.956 val 0.950 test 0.920 best epoch 701
+run  41 seed ( 40) train 0.950 val 0.945 test 0.920 best epoch 148
+run  42 seed ( 41) train 0.934 val 0.940 test 0.900 best epoch 22
+run  43 seed ( 42) train 0.956 val 0.925 test 0.920 best epoch 38
+run  44 seed ( 43) train 0.937 val 0.940 test 0.960 best epoch 106
+run  45 seed ( 44) train 0.947 val 0.950 test 0.960 best epoch 306
+run  46 seed ( 45) train 0.950 val 0.950 test 0.970 best epoch 73
+run  47 seed ( 46) train 0.947 val 0.940 test 0.970 best epoch 70
+run  48 seed ( 47) train 0.939 val 0.965 test 0.950 best epoch 40
+run  49 seed ( 48) train 0.940 val 0.955 test 0.920 best epoch 61
+run  50 seed ( 49) train 0.937 val 0.945 test 0.940 best epoch 39
+
+Summary over 50 runs (mean +/- standard deviation):
+  train accuracy:       0.945 +/- 0.006
+  validation accuracy:  0.944 +/- 0.012
+  test accuracy:        0.940 +/- 0.020
+  best epoch:           161.120 +/- 209.100
+  total test errors:    127 Class 0 called Class 1, 175 Class 1 called Class 0
+Appended 50 runs to results.csv
+Moons 2D Overlap: 1000 examples, 2 features, hidden=0, runs=50
+run   1 seed (  0) train 0.847 val 0.895 test 0.960 best epoch 2
+Saved plot to Moons 2D Overlap_results.png
+run   2 seed (  1) train 0.873 val 0.855 test 0.820 best epoch 1804
+run   3 seed (  2) train 0.860 val 0.875 test 0.850 best epoch 1394
+run   4 seed (  3) train 0.866 val 0.875 test 0.810 best epoch 455
+run   5 seed (  4) train 0.854 val 0.865 test 0.930 best epoch 497
+run   6 seed (  5) train 0.863 val 0.855 test 0.890 best epoch 958
+run   7 seed (  6) train 0.851 val 0.870 test 0.930 best epoch 1
+run   8 seed (  7) train 0.871 val 0.815 test 0.940 best epoch 751
+run   9 seed (  8) train 0.851 val 0.875 test 0.930 best epoch 354
+run  10 seed (  9) train 0.847 val 0.890 test 0.880 best epoch 1
+run  11 seed ( 10) train 0.867 val 0.860 test 0.810 best epoch 1
+run  12 seed ( 11) train 0.867 val 0.855 test 0.850 best epoch 377
+run  13 seed ( 12) train 0.859 val 0.875 test 0.880 best epoch 1281
+run  14 seed ( 13) train 0.866 val 0.875 test 0.840 best epoch 1570
+run  15 seed ( 14) train 0.867 val 0.885 test 0.820 best epoch 1322
+run  16 seed ( 15) train 0.864 val 0.870 test 0.870 best epoch 372
+run  17 seed ( 16) train 0.867 val 0.855 test 0.880 best epoch 999
+run  18 seed ( 17) train 0.869 val 0.850 test 0.840 best epoch 936
+run  19 seed ( 18) train 0.860 val 0.875 test 0.860 best epoch 476
+run  20 seed ( 19) train 0.870 val 0.870 test 0.790 best epoch 296
+run  21 seed ( 20) train 0.859 val 0.875 test 0.830 best epoch 775
+run  22 seed ( 21) train 0.871 val 0.855 test 0.840 best epoch 1577
+run  23 seed ( 22) train 0.877 val 0.845 test 0.830 best epoch 1561
+run  24 seed ( 23) train 0.861 val 0.860 test 0.880 best epoch 599
+run  25 seed ( 24) train 0.861 val 0.875 test 0.860 best epoch 782
+run  26 seed ( 25) train 0.856 val 0.860 test 0.960 best epoch 1167
+run  27 seed ( 26) train 0.860 val 0.850 test 0.910 best epoch 1622
+run  28 seed ( 27) train 0.859 val 0.875 test 0.880 best epoch 3
+run  29 seed ( 28) train 0.864 val 0.885 test 0.850 best epoch 3
+run  30 seed ( 29) train 0.864 val 0.870 test 0.880 best epoch 1363
+run  31 seed ( 30) train 0.860 val 0.865 test 0.880 best epoch 145
+run  32 seed ( 31) train 0.867 val 0.850 test 0.850 best epoch 1149
+run  33 seed ( 32) train 0.863 val 0.865 test 0.850 best epoch 1868
+run  34 seed ( 33) train 0.866 val 0.865 test 0.850 best epoch 788
+run  35 seed ( 34) train 0.867 val 0.860 test 0.830 best epoch 1875
+run  36 seed ( 35) train 0.857 val 0.885 test 0.860 best epoch 937
+run  37 seed ( 36) train 0.859 val 0.880 test 0.870 best epoch 3
+run  38 seed ( 37) train 0.871 val 0.855 test 0.820 best epoch 685
+run  39 seed ( 38) train 0.874 val 0.815 test 0.810 best epoch 1
+run  40 seed ( 39) train 0.867 val 0.840 test 0.880 best epoch 145
+run  41 seed ( 40) train 0.869 val 0.845 test 0.870 best epoch 1650
+run  42 seed ( 41) train 0.861 val 0.875 test 0.830 best epoch 1
+run  43 seed ( 42) train 0.870 val 0.860 test 0.830 best epoch 269
+run  44 seed ( 43) train 0.883 val 0.845 test 0.800 best epoch 1184
+run  45 seed ( 44) train 0.854 val 0.905 test 0.850 best epoch 1147
+run  46 seed ( 45) train 0.866 val 0.860 test 0.840 best epoch 160
+run  47 seed ( 46) train 0.863 val 0.850 test 0.910 best epoch 709
+run  48 seed ( 47) train 0.860 val 0.875 test 0.870 best epoch 182
+run  49 seed ( 48) train 0.867 val 0.875 test 0.840 best epoch 23
+run  50 seed ( 49) train 0.864 val 0.875 test 0.850 best epoch 941
+
+Summary over 50 runs (mean +/- standard deviation):
+  train accuracy:       0.864 +/- 0.007
+  validation accuracy:  0.865 +/- 0.017
+  test accuracy:        0.862 +/- 0.040
+  best epoch:           743.220 +/- 599.365
+  total test errors:    308 Class 0 called Class 1, 383 Class 1 called Class 0
+Appended 50 runs to results.csv

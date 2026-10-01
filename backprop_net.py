@@ -2,7 +2,7 @@
 #
 # Each run splits data into training, validation, and test sets
 # Trains a fresh network for a fixed number of epochs
-# Keeps the weights from the epoch witht the lowest validation loss
+# Keeps the weights from the epoch with the lowest validation loss
 # measures accuracy on the held out test set
 #
 
@@ -16,7 +16,7 @@
 
 # Output: results are printed to terminal only nothing is saved unless requested
 #   --plot saves a learning curve + decision boundary image from the first run, 
-#   next to the data file (ex data/Gaussian 2D Wide_results.png)
+#          next to the data file (ex data/Gaussian 2D Wide_results.png)
 #   
 #   --out appends one row per run to the named CSV file one is (created if missing, existing rows are kept delete the file to start fresh)
 #   
@@ -25,6 +25,17 @@
 # CSV format: no header and no label column. Each row holds one Class 0 point(first half of the columns) and the Class 1 point (second half)
 #
 #
+# Script for running the experiments:
+#       for name in "Gaussian 2D Wide" "Gaussian 2D Narrow" "Gaussian 2D Overlap" \
+#                     "Gaussian 3D Wide" "Gaussian 3D Narrow" "Gaussian 3D Overlap" \
+#                     "Moons 2D Wide" "Moons 2D Narrow" "Moons 2D Overlap"; do
+#       python3 backprop_net.py "data/$name.csv" --runs 50 --plot --out results.csv
+#       python3 backprop_net.py "data/$name.csv" --runs 50 --hidden 0 --plot --out results.csv
+#       done | tee run_log.txt
+#
+#
+#   saves the terminal output to run_log.txt and appends results to results.csv
+
 
 
 import argparse
@@ -107,7 +118,7 @@ class BackpropNet:
     def backward(self, X, y, H, out):
         n = len(X)
 
-        #with sigmoid output + cross entropy, dL/dz_out  simplifies to (out - y)
+        #with sigmoid output + cross entropy, dL/dz_out simplifies to (out - y)
         d_out = (out - y) / n
         grads = {"W2": H.T @ d_out, "b2": d_out.sum(axis=0, keepdims=True), }  
 
@@ -174,7 +185,7 @@ def train(net, Xtr, ytr, Xval, yval, lr, momentum, epochs, batch, rng, verbose=T
 
 def run_once(X, y, a, seed, verbose):
     # one complete run
-    # split, standardizem train, and measure
+    # split, standardize train, and measure
     #returns a results dictionary
 
     rng = np.random.default_rng(seed)
@@ -259,11 +270,11 @@ def plot_results(net, X, y, history, mu, sd, title, outfile):
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("csv")
-    ap.add_argument("--hidden", type=int, default=8, help= "hidden units (0 = no hidden layer)")
-    ap.add_argument("--lr", type=float, default=0.1)
-    ap.add_argument("--momentum", type=float, default=0.9)
-    ap.add_argument("--epochs", type=int, default=2000)
-    ap.add_argument("--batch", type=int, default=32)
+    ap.add_argument("--hidden", type=int, default=8, help="hidden units (0 = no hidden layer)")
+    ap.add_argument("--lr", type=float, default=0.1, help="learning rate")
+    ap.add_argument("--momentum", type=float, default=0.9, help="momentum")
+    ap.add_argument("--epochs", type=int, default=2000, help="How many epochs each run trains")
+    ap.add_argument("--batch", type=int, default=32, help="mini-batch size")
     ap.add_argument("--test", type=float, default=0.1, help="fraction held out for testing from original data set")
     ap.add_argument("--val", type=float, default=0.2222, help="fraction held out for validation from what is left of the data set after removing test")
     ap.add_argument("--seed", type=int, default=0, help="seed for the first run")
