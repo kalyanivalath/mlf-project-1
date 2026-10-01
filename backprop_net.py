@@ -25,10 +25,11 @@
 # CSV format: no header and no label column. Each row holds one Class 0 point(first half of the columns) and the Class 1 point (second half)
 #
 #
-# Script for running the experiments:
+# Shell script for running the experiments:
 #       for name in "Gaussian 2D Wide" "Gaussian 2D Narrow" "Gaussian 2D Overlap" \
 #                     "Gaussian 3D Wide" "Gaussian 3D Narrow" "Gaussian 3D Overlap" \
-#                     "Moons 2D Wide" "Moons 2D Narrow" "Moons 2D Overlap"; do
+#                     "Moons 2D Wide" "Moons 2D Narrow" "Moons 2D Overlap" 
+#       do
 #       python3 backprop_net.py "data/$name.csv" --runs 50 --plot --out results.csv
 #       python3 backprop_net.py "data/$name.csv" --runs 50 --hidden 0 --plot --out results.csv
 #       done | tee run_log.txt
