@@ -35,7 +35,10 @@
 #       done | tee run_log.txt
 #
 #
-#   saves the terminal output to run_log.txt and appends results to results.csv
+#   -saves the terminal output to run_log.txt, saves the plots to *_results.png files, and appends results to results.csv
+#   -must delete the results.csv, the run_log.txt, and the *_results.png files before re-running 
+#   -if not the old results may be overwritten in the cases of the plots and terminal output run_log.txt 
+#    and appended to the results.csv file
 
 
 
@@ -307,7 +310,7 @@ def main():
                   f"val {r['val_acc']:.3f} test {r['test_acc']:.3f} best epoch {r['best_epoch']}")
         if a.plot and i == 0:
             plot_results(net, (X - mu) / sd, y, hist, mu ,sd, 
-                         f"{name}  (hidden={a.hidden}, lr={a.lr}, seed={seed})", name + "_results.png")  
+                         f"{name}  (hidden={a.hidden}, lr={a.lr}, seed={seed})", f"{name}_h{a.hidden}_results.png")  
 
     if a.runs> 1:
         def summary(key):
